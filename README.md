@@ -12,6 +12,4 @@ called **FireNetAGM**, which leverages the MobileNetV2 architecture for feature
 extraction from a sequence of video frames and utilizes an LSTM architecture to 
 handle the temporal dynamics of the video.
 
-[![Fire Detection]()](https://drive.google.com/file/d/1WiLI4i3HLXT3i2fLu6qSmOnhM83PVArx/preview)
-
-[![ire Detection](URL_TO_IMAGE)](https://drive.google.com/file/d/FILE_ID/preview)
+[![Fire Detection](Project_Logo.jpg)](https://drive.google.com/file/d/1WiLI4i3HLXT3i2fLu6qSmOnhM83PVArx/preview)
